@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Kanzul Jawad Murod As Shofi
-- I’m interested in Network and web development
-- I’m currently learning at State University of Surabaya
-- I’m looking to collaborate on anyone who wants collaborate with me
-- How to reach me "www.linkedin.com/in/kanzulinformaticsengineer"
-- im happy if u can connect with me in linkedin, and hope u have a good day
+# Hi, I'm Kanzul Jawad Murod As Shofi
+
+Student of Informatics Engineering | Full-stack Developer
+
+- 🔭 Currently working on: Full-stack Web Applications (Laravel)
+- ⚡ Tech Stack: TypeScript, Node.js, C++, PHP, MySQL, MongoDB
+- 💻 OS: Arch Linux
+- 🌱 Interested in: Web Development, Ethical Hacking, Penetration Testing, Cryptography
+- ✉️ Email : kanzul.murod@gmail.com
+- 🔗 Linkedin : www.linkedin.com/in/kanzulinformaticsengineer
